@@ -1,2 +1,4 @@
-# csharp-restapi-logging
-Learn
+# Command run project
+````
+    dotnet run
+````
